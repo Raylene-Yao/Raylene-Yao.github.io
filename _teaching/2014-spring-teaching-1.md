@@ -3,7 +3,7 @@ title: "Traveling"
 collection: teaching
 type: "Multiple Countries"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Sightseeing"
+venue: "sightseeing"
 date: 2013-01-01
 #location: "North American nations"
 ---
