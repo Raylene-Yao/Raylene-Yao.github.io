@@ -16,7 +16,7 @@ Thailand
 Canada
 ======
 
-American
+America
 ======
 
 Mexico
