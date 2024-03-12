@@ -4,15 +4,52 @@ excerpt: "One of my hobby is baking. I enjoy creating delicious treats and exper
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
-<br/><img src='/images/500x300.png'>
-
-Work experience
+Cheesecake
 ======
-* 2020.11 - 2021.06: Assistant Tire Development 
-  * Michelin Tire Research and Development Center (Shanghai) Co.,Ltd.
-  * Key Responsibilities
-    * Collaborate with cured tire designers (CTD) and echnician guarantee performance(TGP) to ensure optimal performance in Market Affairs/Balise projects. This involves utilizing Microsoft Teams for seamless communication and joint execution of actions within the specified scope.
-    * Conduct tire testing in adherence to standards such as ISO 28580. Detailed recording and analysis of the test results using MS Office, particularly Excel, is crucial.
-    * Share pertinent tire performance test reports through Power BI. This involves preparing presentations to effectively communicate the results of the test plans both internally and externally, ensuring widespread diffusion and proper archival.
-    * Adjust parameters for evaluating the uniformity of tire production to meet customer requirements. This is achieved through the use of VBA and Excel, demonstrating proficiency in data manipulation and analysis to ensure the highest quality standards are maintained in tire production.
+* Eggs: 3
+  * Separate the yolks (set aside) and refrigerate the egg whites.
+* Cream Cheese/Mascarpone: 180g
+* Unsalted Butter: 30g
+* Milk: 100g
+    * Whisk over hot water until smooth. Gradually add the egg yolks, stirring evenly.
+* Cake Flour: 10g
+* Cornstarch: 20g
+    * Sift the flour into the mixture and stir until smooth. Set aside the sieved cake batter.
+* Granulated Sugar: 60g
+* Lemon Juice: 10g
+    * Add sugar in three portions to the egg whites, beating until there are distinct patterns, and the eggbeater lifts with a slight curve. Take a spoonful of egg whites and mix it into the cake batter, then pour the cake batter into the egg whites, gently folding until well combined.
+    * Cold Water Bath: Bake at 150°C / 300°F for 30 minutes, 110°C / 230°F for 60 minutes.
+#<br/><img src='/images/500x300.png'>
+
+Tiramisu
+======
+* Mascarpone Cheese: 300g
+* Whipping Cream: 250g
+  * Whip manually until stiff peaks form.
+* Egg Yolk: 70g
+* Granulated Sugar: 50g
+* Water: 30g
+  * Stir and heat over a double boiler until reaching 80°C. After sieving, whip until the volume increases, and the egg beater lifts smoothly in a flowing state. Mix into the cheese mixture until smooth. Chill until a piece of the cheese mixture can be lifted without easily falling.
+* Instant Coffee: 12g
+* Granulated Sugar: 30g
+* Hot Water: 160g
+* Coffee Liqueur: 10g
+    * Dip ladyfinger biscuits into the coffee liquid for two rounds. Layer biscuits and cheese mixture alternately. Once assembled, refrigerate for at least two hours.
+#<br/><img src='/images/500x300.png'>
+
+Cream Puff
+======
+* Unsalted butter: 38g
+* Granulated sugar: 45g
+* Flour: 45g
+  * Mix melted butter and granulated sugar, sift in the flour, knead into a dough, and shape it into a long strip for freezing (puff pastry).
+* Flour: 60g
+* Water: 60g
+* Milk: 60g
+* Unsalted butter: 55g
+* Salt: 2g
+    * Stir until well combined, then cook over medium heat until it forms a cohesive ball (choux pastry).
+    * Whole egg mixture: 110g (amount may vary based on dough consistency)
+    * Gradually add the dough to the whole egg mixture, stirring until the batter reaches a ribbon-like consistency when lifted with a spatula.
+    * Bake at 395°F for 25-30 minutes (adjust time based on the state of the choux pastry).
+#<br/><img src='/images/500x300.png'>
