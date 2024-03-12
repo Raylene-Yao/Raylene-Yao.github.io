@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Baking"
+excerpt: "One of my hobby is baking. I enjoy creating delicious treats and experimenting with different recipes in the kitchen. Baking allows me to explore my creativity through the art of making pastries, cakes, cookies, and other baked goods. I find joy in the entire process - from selecting high-quality ingredients to mixing and measuring, and finally, seeing the finished product come out of the oven. It’s a rewarding and therapeutic activity for me, and I love sharing the delightful results with family and friends. Whether it’s a simple batch of cookies or an elaborate cake, the act of baking brings a sense of satisfaction and accomplishment into my life."
 collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<br/><img src='/images/500x300.png'>
