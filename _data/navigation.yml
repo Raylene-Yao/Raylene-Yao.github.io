@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Academic Projects"
-    url: /publications/
+  #- title: "Publications"
+    #url: /publications/
 
   - title: "Honors & Awards"
     url: /talks/    
@@ -9,13 +9,13 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Personal Life"
-    url: /teaching/    
+  #- title: "Teaching"
+    #url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Personal Life"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Academic Projects"
     url: /year-archive/
     
   #- title: "Guide"
