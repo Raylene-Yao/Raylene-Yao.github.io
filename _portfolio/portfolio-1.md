@@ -4,8 +4,6 @@ excerpt: "One of my hobby is baking. I enjoy creating delicious treats and exper
 collection: portfolio
 ---
 
-One of my hobby is baking. I enjoy creating delicious treats and experimenting with different recipes in the kitchen. Baking allows me to explore my creativity through the art of making pastries, cakes, cookies, and other baked goods. I find joy in the entire process - from selecting high-quality ingredients to mixing and measuring, and finally, seeing the finished product come out of the oven. It’s a rewarding and therapeutic activity for me, and I love sharing the delightful results with family and friends. Whether it’s a simple batch of cookies or an elaborate cake, the act of baking brings a sense of satisfaction and accomplishment into my life.
-
 Cheesecake
 ======
 * Eggs: 3
