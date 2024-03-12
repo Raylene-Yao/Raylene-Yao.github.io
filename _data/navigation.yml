@@ -3,6 +3,9 @@ main:
   #- title: "Publications"
     #url: /publications/
 
+  - title: "Academic Projects"
+    url: /year-archive/
+
   - title: "Honors & Awards"
     url: /talks/    
 
@@ -15,8 +18,5 @@ main:
   - title: "Personal Life"
     url: /portfolio/
         
-  - title: "Academic Projects"
-    url: /year-archive/
-    
   #- title: "Guide"
     #url: /markdown/
