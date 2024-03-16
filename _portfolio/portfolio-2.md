@@ -7,19 +7,19 @@ collection: portfolio
 Thailand
 ======
 * Bangkok and Pattaya
-#<br/><img src='/images/thailand.png'>
+<br/><img src='/images/thailand.png'>
 
 Canada
 ======
 * Vancouver, Toronto, Calgary, Montreal, Winnipeg
-#<br/><img src='/images/500x300.png'>
+<br/><img src='/images/calgary.png'>
 
 America
 ======
 * New York, Washington, Seattle
-#<br/><img src='/images/yellowstone.png'>
+<br/><img src='/images/yellowstone.png'>
 
 Mexico
 ======
 * Cancun
-#<br/><img src='/images/cancun.png'>
+<br/><img src='/images/cancun.png'>
