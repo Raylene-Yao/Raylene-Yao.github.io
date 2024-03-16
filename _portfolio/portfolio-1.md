@@ -19,7 +19,6 @@ Cheesecake
 * Lemon Juice: 10g
     * Add sugar in three portions to the egg whites, beating until there are distinct patterns, and the eggbeater lifts with a slight curve. Take a spoonful of egg whites and mix it into the cake batter, then pour the cake batter into the egg whites, gently folding until well combined.
     * Cold Water Bath: Bake at 150°C / 300°F for 30 minutes, 110°C / 230°F for 60 minutes.
-#<br/><img src='/images/cheesecake.png'>
 
 Tiramisu
 ======
@@ -35,7 +34,7 @@ Tiramisu
 * Hot Water: 160g
 * Coffee Liqueur: 10g
     * Dip ladyfinger biscuits into the coffee liquid for two rounds. Layer biscuits and cheese mixture alternately. Once assembled, refrigerate for at least two hours.
-#<br/><img src='/images/tiramisu.png'>
+<br/><img src='/images/tiramisu.png'>
 
 Cream Puff
 ======
